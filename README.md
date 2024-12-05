@@ -7,7 +7,7 @@ Obesity Data Analysis and Preprocessing for Machine Learning
 
 his project focuses on analyzing, Visualization, preprocessing, and preparing an obesity dataset for machine learning tasks. The workflow includes data cleaning, feature engineering, outlier handling, and dataset splitting, all aimed at ensuring the data is ready for analytics and modeling.
 
-**Project Objectives
+**Project Objectives**
 
 Preprocess the obesity dataset for machine learning readiness.
 
@@ -31,19 +31,20 @@ Dietary Habits: Frequency of eating high-calorie foods, vegetable consumption, l
 Obesity Levels: Target variable categorized into various obesity levels.
 
 
-Tasks Performed
+**Tasks Performed**
+
 1. Data Cleaning and Transformation
 Gender: Encoded categorical values ("Female" → 0, "Male" → 1).
 Age: Converted to integer type for numerical analysis.
 Height and Weight: Rounded to two and one decimal places, respectively, for uniformity.
 
-3. Feature Engineering
+2. Feature Engineering
 Renamed Columns: Renamed dataset columns for better readability and consistency.
 Categorical Encoding:
 Encoded lifestyle habits (e.g., Smoking, Alcohol Consumption) and other categorical features (e.g., Family History, Transportation Mode) into numerical values.
 Consolidated obesity levels into fewer categories for better classification.
 
-5. Data Visualization
+3. Data Visualization
 Univariate Analysis:
 Distribution plots for continuous variables (e.g., Age, Weight, Height).
 Bar plots for categorical features (e.g., Smoking, Alcohol Consumption).
@@ -53,7 +54,7 @@ Pairplots to explore pairwise relationships among key features.
 Class Distribution:
 Visualized obesity level distributions using bar charts.
 
-6. Dataset Splitting
+4. Dataset Splitting
 Split the preprocessed dataset into training and testing sets (e.g., 80% training, 20% testing) for model development and evaluation.
 
 
