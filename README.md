@@ -44,6 +44,9 @@ Categorical Encoding:
 Encoded lifestyle habits (e.g., Smoking, Alcohol Consumption) and other categorical features (e.g., Family History, Transportation Mode) into numerical values.
 Consolidated obesity levels into fewer categories for better classification.
 
+![image](https://github.com/user-attachments/assets/a3c089c8-2fc3-4366-b1f6-c9ee7aab00b7)
+
+
 3. Data Visualization
 Univariate Analysis:
 Distribution plots for continuous variables (e.g., Age, Weight, Height).
@@ -53,6 +56,12 @@ Correlation heatmaps to visualize relationships between variables.
 Pairplots to explore pairwise relationships among key features.
 Class Distribution:
 Visualized obesity level distributions using bar charts.
+
+Examples
+![image](https://github.com/user-attachments/assets/b4edd18a-674d-4a29-bdbd-bd7544cf0b8a)
+![image](https://github.com/user-attachments/assets/81fe5e3a-dc9a-43cb-97f5-4d78eef3bd2a)
+![image](https://github.com/user-attachments/assets/456a5f7f-d2d9-4e13-8e1b-bf517329a92f)
+
 
 4. Dataset Splitting
 Split the preprocessed dataset into training and testing sets (e.g., 80% training, 20% testing) for model development and evaluation.
