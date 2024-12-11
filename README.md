@@ -5,7 +5,7 @@ Dataset used : https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+lev
 Obesity Data Analysis and Preprocessing for Machine Learning
 
 
-his project focuses on analyzing, Visualization, preprocessing, and preparing an obesity dataset for machine learning tasks. The workflow includes data cleaning, feature engineering, outlier handling, and dataset splitting, all aimed at ensuring the data is ready for analytics and modeling.
+This project focuses on analyzing, Visualization, preprocessing, and preparing an obesity dataset for machine learning tasks. The workflow includes data cleaning, feature engineering, outlier handling, and dataset splitting, all aimed at ensuring the data is ready for analytics and modeling.
 
 **Project Objectives**
 
